@@ -5,6 +5,7 @@ html,
 body {
 	height: 100%;
 }
+
 .titulo {
 	display: flex;
 	justify-content: center;
@@ -17,13 +18,12 @@ body {
 }
 
 audio::-webkit-media-controls-panel {
-  background-color: #a27bcc;
+	background-color: #a27bcc;
 }
 
 #audio {
 	width: 300px;
 }
-
 
 body {
 	font-family: 'Indie Flower', cursive !important;
