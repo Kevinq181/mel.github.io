@@ -9,14 +9,18 @@ body {
 
 #audioPlayer {
 	padding-top: 5%;
-	color: #fff;
 	display: flex;
 	justify-content: center;
 }
 
-#audio {
-	width: 400px;
+audio::-webkit-media-controls-panel {
+  background-color: #a27bcc;
 }
+
+#audio {
+	width: 300px;
+}
+
 
 body {
 	font-family: 'Indie Flower', cursive !important;
