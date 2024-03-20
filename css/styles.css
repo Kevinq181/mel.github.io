@@ -8,9 +8,7 @@ body {
 
 
 #audioPlayer {
-	
-	
-	padding: 20px;
+	padding-top: 5%;
 	color: #fff;
 	display: flex;
 	justify-content: center;
